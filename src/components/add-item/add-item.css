@@ -1,0 +1,7 @@
+.add-input {
+    width: auto;
+    flex-grow: 1;
+}
+.input-group {
+    margin-top: 10px;
+}
